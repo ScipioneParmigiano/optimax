@@ -2,7 +2,8 @@
 
 Numerical methods to solve optimization problem in Rust.
 
-[Crates](https://crates.io/crates/rustonomicon_optima/0.1.2)
+ - [Crates](https://crates.io/crates/rustonomicon_optima/0.1.2)
+ - [Documentation](https://docs.rs/rustonomicon_optima/0.1.2/rustonomicon_optima/)
 
 ## Installation
 
