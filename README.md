@@ -10,7 +10,7 @@ To start using the crate in a project, the following dependency must be added in
 
 ```
 [dependencies]
-rustonomicon_optima = "0.1.0"
+rustonomicon_optima = "0.1.2"
 ```
 
 Then, in the main file, add

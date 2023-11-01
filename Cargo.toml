@@ -4,7 +4,7 @@ description = "Various algorithms for optimization"
 repository = "https://github.com/ScipioneParmigiano/rustonomicon_optima"
 readme = "README.md"
 name = "rustonomicon_optima"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
