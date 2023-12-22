@@ -1,4 +1,4 @@
-# Rustonomicon-Optima
+# Optima
 
 Numerical methods to solve optimization problems in Rust.
 
@@ -11,12 +11,12 @@ To start using the crate in a project, the following dependency must be added in
 
 ```
 [dependencies]
-rustonomicon_optima = "0.1.2"
+optima = "0.1.2"
 ```
 
 Then, in the main file, add
 ```
-use rustonomicon_optima::*
+use optima::*
 ```
 
 
