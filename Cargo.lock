@@ -233,7 +233,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "optima"
+name = "optimax"
 version = "0.1.3"
 dependencies = [
  "finitediff",
