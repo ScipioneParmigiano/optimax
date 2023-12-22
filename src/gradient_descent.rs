@@ -4,7 +4,7 @@ use finitediff::FiniteDiff;
 /// # Example
 /// objective function: f(x,y) = x^2 + y^2 +3x^2 y^3
 /// ```
-/// use rustonomicon_optima::{gradient_descent};
+/// use optimax::{gradient_descent};
 ///
 /// let objective_fn = |params: &Vec<f64>| {
 /// let x = params[0];

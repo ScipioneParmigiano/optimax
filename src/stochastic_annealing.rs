@@ -23,7 +23,7 @@ fn acceptance_probability(old_energy: f64, new_energy: f64, temperature: f64) ->
 /// # Example
 /// objective function: f(x,y) = x^2 + y^2
 /// ```
-/// use rustonomicon_optima::{stochastic_annealing, Solution};
+/// use optimax::{stochastic_annealing, Solution};
 ///
 /// let objective_function = |x: &[f64]| x[0].powi(2) + x[1].powi(2);
 /// let initial_solution = Solution::new(vec![1.0, 1.0], objective_function(&[1.0, 1.0]));
